@@ -25,9 +25,16 @@
 RA-Work/
 Data_Processing/
 Data_Collection/
-Data_Files/
-#include candidate data csv files
-!Data_Files/2018/Candidate_Data
-!Data_Files/2019/Candidate_Data
-!Data_Files/2020/Candidate_Data 
+Data_Files/2018/Base_Files_Bank
+Data_Files/2018/Sundry_Data
+Data_Files/2018/Heratrix 
+Data_Files/2019/Base_Files_Bank
+Data_Files/2019/Sundry_Data
+Data_Files/2019/Heratrix 
+Data_Files/2020/Base_Files_Bank
+Data_Files/2020/Sundry_Data 
+Data_Files/2020/Heratrix 
+Data_Files/2021/Base_Files_Bank
+Data_Files/2021/Sundry_Data 
+Data_Files/2021/Heratrix 
 ```
