@@ -1,0 +1,33 @@
+```
+# Prevent users to commit their own RProject
+.Rproj.user
+.Rproj
+# Prevent users to commit their own .RData and .Rhistory in mutual area
+.RData
+.Rhistory
+.Rapp.history
+# Temporary files
+*~
+~$*.doc*
+~$*.xls*
+*.xlk
+~$*.ppt*
+# Prevent mac users to commit .DS_Store files
+*.DS_Store
+# Prevent users to commit the README files created by RStudio
+*README.html
+*README_cache/
+*README_files/
+# Ignores Specific File Types
+*.html
+*.pdf
+# Excludes large data files from the project
+RA-Work/
+Data_Processing/
+Data_Collection/
+Data_Files/
+#include candidate data csv files
+!Data_Files/2018/Candidate_Data
+!Data_Files/2019/Candidate_Data
+!Data_Files/2020/Candidate_Data 
+```
